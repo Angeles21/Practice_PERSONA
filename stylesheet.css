@@ -339,6 +339,37 @@ hr {
 	border-color: rgb(199, 194, 195);
 }
 
+/** THIS IS THE SOCIAL MEDIA BIT **/
+.fa {
+	text-align: center;
+	text-decoration: none;
+	margin: 0.5vh;
+}
+
+.fa-facebook {
+	color: white;
+}
+
+.fa-twitter {
+	color: white;
+}
+
+.fa-google {
+	color: white;
+}
+
+.fa-linkedin {
+	color: white;
+}
+
+.fa-youtube {
+	color: white;
+}
+
+.fa-instagram {
+	color: white;
+}
+
 /** THIS IS THE BOTTOM LINE **/
 
 .bottom-line {
